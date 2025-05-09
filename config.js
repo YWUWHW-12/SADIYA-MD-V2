@@ -5,8 +5,8 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "CyoUyZ6L#yn89k76EO8qXwEyAZ8DBk6OlqfKYxvWo33BKinzSBMQ", //Put Session-id Here
-GITHUB_USER_NAME: process.env.GITHUB_USER_NAME || "", //Put Your Gitub Username
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "", //Put Your Github Auth Token
+GITHUB_USER_NAME: process.env.GITHUB_USER_NAME || "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", //Put Your Gitub Username
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "SADIYA-MD-V2", //Put Your Github Auth Token
 DATABASE_REPO_NAME: process.env.DATABASE_REPO_NAME || "SADIYA-MD-DATABASE", //Bot Database Repo Name
 SESSION_NAME: process.env.SESSION_NAME || "session"
 };
